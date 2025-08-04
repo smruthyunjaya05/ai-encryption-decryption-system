@@ -42,7 +42,7 @@
   <img src="assets/landing_page.png" alt="Landing Page" width="80%"/>
   <br/>
   <sub><strong>🎨 Landing Page:</strong> A sleek, modern interface introducing the AI Encryption & Decryption System with intuitive navigation and professional design.</sub>
-  <br/>
+  <br/><br/>
   <img src="assets/debug_console.png" alt="Debug Console" width="80%"/>
   <br/>
   <sub><strong>🔍 Debug Console:</strong> Real-time operational logs showing encryption/decryption status, success messages, and error handling for complete transparency and troubleshooting capabilities.</sub>
