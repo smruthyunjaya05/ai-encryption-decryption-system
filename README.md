@@ -43,9 +43,6 @@
   <br/>
   <sub><strong>🎨 Landing Page:</strong> A sleek, modern interface introducing the AI Encryption & Decryption System with intuitive navigation and professional design.</sub>
   <br/><br/>
-  <img src="assets/Screenshot 2025-08-04 130848.png" alt="Encryption & Decryption UI" width="80%"/>
-  <br/>
-  <sub><strong>🔐 Core Functionality:</strong> Dual-panel interface for seamless encryption and decryption. Enter plaintext, get instant ciphertext with verification tags. Paste ciphertext to recover original messages with integrity verification.</sub>
   <br/><br/>
   <img src="assets/debug_console.png" alt="Debug Console" width="80%"/>
   <br/>
